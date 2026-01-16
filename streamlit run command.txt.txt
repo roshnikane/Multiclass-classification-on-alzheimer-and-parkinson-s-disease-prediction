@@ -1,0 +1,8 @@
+streamlit run "C:\Users\rutuja kane\OneDrive\Desktop\multipal diseases prediction\multiple disease.py.py"
+streamlit run "C:\Users\rutuja kane\OneDrive\Desktop\multipal diseases prediction\multiple disease1.py.py"
+Above command is use in the spyder software
+streamlit
+numpay
+matplotlib
+anaconda
+googlecollab
